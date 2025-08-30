@@ -7,7 +7,6 @@
 ## 👨‍💻 About Me
 - 🚀 Passionate **Full-Stack Developer** with experience in modern web apps.  
 - 🤖 Keen interest in **Machine Learning** and **AI-driven solutions**.  
-- 🧩 Strong problem-solver with a love for **clean UI design** and **product thinking**.  
 - 📚 Always curious and continuously learning.  
 
 ---
@@ -38,7 +37,7 @@ JNTUH University College of Engineering, Hyderabad
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Java, HTML, CSS, JavaScript  
+- **Languages:** Java, Python, C, HTML, CSS, JavaScript  
 - **Databases:** SQL, MySQL  
 - **Tools & Platforms:** Git, VS Code, Google Colab  
 - **Coursework:** OOPS, DBMS, OS  
@@ -53,10 +52,4 @@ JNTUH University College of Engineering, Hyderabad
 
 ---
 
-## 📊 GitHub Stats
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhilAshp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilAshp&layout=compact&theme=radical)
-
----
-
-⭐️ From [AkhilAshp](https://github.com/AkhilAshp)
+⭐️ From [Akhil Mekala](https://github.com/AkhilAshp)
