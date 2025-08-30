@@ -1,6 +1,6 @@
 # Hi there, I'm Akhil 👋
 
-📧 [Email](mailto:akhil.mekala8410@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/akhil-mekala/) | 🌐 [Portfolio](https://portfolio-five-silk-99.vercel.app) | 🐙 [GitHub](https://github.com/AkhilAshp)
+📧Email: [akhil.mekala8410@gmail.com](mailto:akhil.mekala8410@gmail.com) | 💼LinkedIn: [akhil_mekala](https://www.linkedin.com/in/akhil-mekala/) | 🌐Website: [Portfolio](https://portfolio-five-silk-99.vercel.app) | 🐙GitHub: [AkhilAshp](https://github.com/AkhilAshp)
 
 ---
 
