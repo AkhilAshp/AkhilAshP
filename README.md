@@ -46,7 +46,7 @@ JNTUH University College of Engineering, Hyderabad
 ---
 
 ## 🏆 Achievements
-- 🥉 3rd place in Coding Contest @ College Fest (2024)  
+- 🥉 3rd place in Coding Contest @College Annual Fest (2024)  
 - 🎯 TS EAMCET Rank **4675** (2022)  
 - 💡 Solved **200+ coding problems** across platforms  
 - 📜 Full Stack Development Certification – Apna College (2025)  
