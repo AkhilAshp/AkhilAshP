@@ -38,7 +38,8 @@ JNTUH University College of Engineering, Hyderabad
 
 ## 🛠️ Technical Skills
 - **Languages:** Java, Python, C, HTML, CSS, JavaScript  
-- **Databases:** SQL, MySQL  
+- **Databases:** SQL, MySQL, MongoDB
+- **Web Technologies:** MERN Stack, NextJS, Tailwind CSS, Bootsrap
 - **Tools & Platforms:** Git, VS Code, Google Colab  
 - **Coursework:** OOPS, DBMS, OS  
 
